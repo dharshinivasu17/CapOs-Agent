@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CapOps Agent
 
 CapOps Agent is an Intelligent BPO Assistant designed for Capgemini's internal operations. It autonomously resolves HR, Finance, and IT support queries. The system incorporates an advanced LangChain orchestrator with Claude API to provide intelligent routing, RAG over knowledge bases, live sentiment analysis, dynamic action execution, and a real-time React dashboard. 
@@ -85,3 +86,6 @@ curl http://localhost:80/api/dashboard/stats
 - `PORT`: Server port
 - `CHROMA_DB_PATH`: Vector DB persist location
 - `LOG_PATH`: Session logs path
+=======
+# CapOs-Agent
+>>>>>>> 6b4257bcf6fcc5b1f438a9e9186071925ce2e68a
